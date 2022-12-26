@@ -1,5 +1,9 @@
 <h1 align="center"> 👋 Hi there!</h1>
 
+<div align="center">
+<img src="https://github.com/mor3hate/mor3hate/blob/main/readmeGif.gif" alt="header"/>
+</div>
+
 <h2 align="center">🚀 About Me</h3>
 
 <p>Hi! My name is Michael and I am a Frontend-developer for more than 2 years now.
